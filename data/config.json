@@ -1,0 +1,17 @@
+{
+  "options": {
+    "paths": {
+      "root": "/data"
+    }
+  },
+  "styles": {
+    "bubbly": {
+      "style": "style.json"
+    }
+  },
+  "data": {
+    "australia": {
+      "mbtiles": "2020-02-10-v3.11-planet.mbtiles"
+    }
+  }
+}

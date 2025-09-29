@@ -1,0 +1,12 @@
+version: "3"
+
+services:
+  tileserver:
+    image: maptiler/tileserver-gl
+    container_name: tileserver-gl
+    volumes:
+      - ./data:/data
+    ports:
+      - "8080:8080"
+    command: "2020-02-10-v3.11-planet.mbtiles"
+    restart: unless-stopped

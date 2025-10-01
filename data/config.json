@@ -5,12 +5,15 @@
     }
   },
   "styles": {
-    "bubbly": {
-      "style": "style.json"
+    "light": {
+      "style": "light.json"
+    },
+    "dark": {
+      "style": "dark.json"
     }
   },
   "data": {
-    "australia": {
+    "world": {
       "mbtiles": "2020-02-10-v3.11-planet.mbtiles"
     }
   }

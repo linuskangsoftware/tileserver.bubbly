@@ -10,6 +10,12 @@
     },
     "dark": {
       "style": "dark.json"
+    },
+    "default": {
+      "style": "default.json"
+    },
+    "openstreetmap": {
+      "style": "openstreetmap.json"
     }
   },
   "data": {
